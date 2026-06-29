@@ -5,3 +5,4 @@ google-generativeai>=0.3.0
 python-dotenv>=1.0.0
 ipykernel>=6.0.0
 nbformat>=5.0.0
+dnspython>=2.0.0
